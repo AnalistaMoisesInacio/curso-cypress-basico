@@ -6,6 +6,10 @@ bin-release/
 
 # Other files and folders
 .settings/
+.DS_Store
+cypress/screenshots/
+cypress/videos/
+node_modules/
 
 # Executables
 *.swf
